@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gregoire-duminil.github.io/sitemap.xml
